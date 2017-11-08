@@ -7,3 +7,7 @@ las proteinas consservadas tendrían un RMS mínima, contrario de las no conserv
 zona desestructurada: adopta diferentes tipos de formas
 la topología es diferente: oséa la unipón es diferente.
 si tiene valores de RMS bajos a pesar de que al verlo no sea parecido, ´sta es conxservada pero sufrió un cambio conformacional
+
+hay que marcar la F(presente en la tabla main) para que quede fija, si no lo están, se mueve solamente.
+
+la H es la hélice.
